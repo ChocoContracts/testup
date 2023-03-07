@@ -1,0 +1,16 @@
+{
+  "description": "Spinningc", 
+  "external_url": "https://exampe.com", 
+  "image": "ipfs://bafkreicu47vimvdnkt4nepr5yn66awtqbloygelj53nyvyrb6aehwd4cbi", 
+  "name": "C1",
+  "attributes": [   
+    {
+      "trait_type": "staked", 
+      "value": 6
+    },   
+      {
+      "display_type": "boost_percentage", 
+      "trait_type": "staked of total", 
+      "value": 25
+    } ]
+}
